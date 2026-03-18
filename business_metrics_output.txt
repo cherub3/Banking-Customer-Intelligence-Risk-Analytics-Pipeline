@@ -1,0 +1,25 @@
+1. Pareto:
+- Top 21.3920% customers contribute 80.0000% of total value
+- Top 20.0000% customers contribute 78.9198% of total value
+
+2. Segments:
+- DORMANT -> 2,332,467 customers (98.2143%), 83.0592% revenue
+- GROWTH_POTENTIAL -> 21,018 customers (0.8850%), 0.3591% revenue
+- HIGH_RISK -> 8,109 customers (0.3414%), 15.6667% revenue
+- MASS_MARKET -> 7,819 customers (0.3292%), 0.8978% revenue
+- LOYAL_ACTIVE -> 5,462 customers (0.2300%), 0.0172% revenue
+
+3. Risk:
+- HIGH risk -> 5.6504%
+- MEDIUM risk -> 0.2854%
+- Avg fraud rate -> 0.0030
+- Fraud rate (HIGH risk segment) -> 0.0538
+
+4. Dormant:
+- 98.5134% customers dormant
+- INR 74,833,739,051.53 total dormant value
+
+5. Transactions:
+- Total value = INR 38,799,403,987.95
+- Avg txn = INR 31,597.7415
+- Fraud % = 0.3319%
