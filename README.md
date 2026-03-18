@@ -25,6 +25,7 @@ The system processes **6.3M+ transactions** and **2.3M+ customers**, transformin
 ---
 
 ## 📂 Project Structure
+
 ├── load_raw_data.sql
 ├── stage1_cleaning.sql
 ├── stage2_modeling.sql
